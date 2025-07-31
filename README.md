@@ -13,6 +13,8 @@ _Advanced machine learning approach for automated breast cancer diagnosis using 
 
 ---
 
+</div>
+
 ## 🚀 Quick Navigation
 
 - **🏃 Get Started**: Run `python setup.py` for automated setup
@@ -21,8 +23,6 @@ _Advanced machine learning approach for automated breast cancer diagnosis using 
 - **🚢 Deploy**: Check [deployment guide](DEPLOYMENT.md) for production
 - **🤝 Contribute**: Read [contributing guidelines](CONTRIBUTING.md)
 - **❓ Help**: Check [FAQ](FAQ.md) for common questions
-
-</div>
 
 ## 🎯 Project Overview
 
